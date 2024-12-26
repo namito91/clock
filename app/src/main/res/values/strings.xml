@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="title_activity_world_clock_main_screen">WorldClockMainScreen</string>
+</resources>
